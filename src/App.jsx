@@ -14,6 +14,6 @@ const pokemonList = [
 ];
 
 function App() {
-  return <PokemonCard pokemon={pokemonList[1]} />;
+  return <PokemonCard pokemon={pokemonList[0]} />;
 }
 export default App;

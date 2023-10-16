@@ -30,6 +30,12 @@ const pokemonList = [
   {
     name: "mew",
   },
+
+  {
+    name: "Typhlosion",
+
+    imgSrc: "https://www.pokepedia.fr/images/thumb/8/8b/Typhlosion-HGSS.png/500px-Typhlosion-HGSS.png",
+  },
 ];
 
 function App() {

@@ -11,7 +11,6 @@ function NavBar({ pokemonList, pokemonSelect, setPokemonSelect }) {
         setPokemonSelect(index);
       }}
     >
-      {" "}
       {element.name}
     </button>
   ));
